@@ -69,7 +69,7 @@ Susanoo:
 
 If you like the project, you can buy me beers :) 
 
- 	[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-green.svg)](https://ant4g0nist.github.io)
+[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-green.svg)](https://ant4g0nist.github.io)
 
 
 ## Installation:
