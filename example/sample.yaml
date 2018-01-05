@@ -29,7 +29,7 @@ apis:
     method: 'GET'
     inputs:
       url_input:
-        latlong: {'type':'latlng','required'}
+        latlong: {'type':'latlng','required': True} 
 
   - name: 'post_parameters_example'
     api: '/post/parameters/example'
